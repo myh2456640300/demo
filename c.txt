@@ -1,1 +1,1 @@
-i am c.txt
+i am c.txt  but now i want to change it 
